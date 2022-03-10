@@ -24,4 +24,4 @@ Install the [Chrome Gitpod extension](https://chrome.google.com/webstore/detail/
 12. Write the paramiterized constructor for the Student class
 13. Inside the Main class create a students object and set default values for all variables.
 14. Print all Students object details to the console.
-15. Create a study method inside the student class that prints "I am studying to the console". Then call this method in the main calss. 
+15. Create a study method inside the student class that prints "I am studying to the console". Then call this method in the main class. 
